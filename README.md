@@ -1,3 +1,3 @@
 # SIT STARTER PACK #27
 
-cc
+"สวัสดิ์"
